@@ -1,6 +1,5 @@
 using Ocelot.DependencyInjection;
 using Ocelot.Middleware;
-using System.Threading.Tasks;
 
 namespace APIGateway
 {
